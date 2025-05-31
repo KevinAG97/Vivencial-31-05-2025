@@ -2,5 +2,7 @@
 
 ## Nomes:
 Mauricio Costa
+<br>
 Hiago Panseira
+<br>
 Kevin de azevedo Garcia

@@ -7,6 +7,7 @@ Hiago Panseira
 <br>
 Kevin de azevedo Garcia
 
+## Fontes:
 Cenários útilizados: https://craftpix.net/freebies/free-moon-pixel-game-backgrounds/
 <br>
 O arquivo "gato.png" foi feito no site Canva.
